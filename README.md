@@ -51,7 +51,7 @@ I’m passionate about open-source and have contributed to various projects that
 - **[jesse](https://github.com/jesse)**  
   A Kubernetes helm chart for the Jesse AI trading bot.
 
-- **[AWASM Portfolio](https://github.com/AWASMPortfolio)**  
+- **[AWASM Portfolio](https://github.com/trianalab/awasm-portfolio)**  
   A WebAssembly-powered application showcasing a developer’s portfolio using Kubernetes-like commands.
 
 - **[Keda](https://github.com/kedacore/keda)**  
