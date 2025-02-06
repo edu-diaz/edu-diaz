@@ -6,29 +6,29 @@ I'm a **Software Infrastructure Engineer** with strong interest in **open-source
 
 ## 🚀 Experience
 
-**Machine Learning Operations Engineer @ Emergence**  
+**Machine Learning Operations Engineer @ [Emergence](https://emergence.ai)**  
 *July 29, 2024*  
 - Designed scalable AI infrastructure using tools like **Terraform, Crossplane, Prometheus, Istio, Keda,** and **Kyverno**.  
 - Provisioned AWS/GKE clusters and orchestrated complex infrastructure components with a cloud native approach.
 
-**Product Software Engineer – Kubernetes Team @ Appian**  
+**Product Software Engineer – Kubernetes Team @ [Appian](https://appian.com)**  
 *February 1, 2024*  
 - Developed services to support elastic scaling and reliable high-impact deployments.  
 - Enhanced Kubernetes-native capabilities in both cloud and self-managed environments.
 
-**Senior Solution Engineer – Infrastructure Team @ Appian**  
+**Senior Solution Engineer – Infrastructure Team @ [Appian](https://appian.com)**  
 *October 1, 2023*  
 - Delivered global technical support and mentored team members, driving effective infrastructure solutions and creative problem-solving.
 
-**Solution Engineer – Infrastructure Team @ Appian**  
+**Solution Engineer – Infrastructure Team @ [Appian](https://appian.com)**  
 *October 1, 2022*  
 - Provided hands-on support to global customers by leveraging expertise in Kubernetes, web services and Linux to streamline operations.
 
-**Associate Solution Engineer @ Appian**  
+**Associate Solution Engineer @ [Appian](https://appian.com)**  
 *November 1, 2021*  
 - Tackled complex technical challenges and collaborated with internal teams to deliver innovative infrastructure solutions.
 
-**Software QA Engineer @ Solera**  
+**Software QA Engineer @ [Solera](https://solera.com)**  
 *August 1, 2020*  
 - Collaborated with developers and system architects to design testable applications, automate test suites and ensure high-quality releases.
 
@@ -37,10 +37,10 @@ I'm a **Software Infrastructure Engineer** with strong interest in **open-source
 ## 🎓 Education
 
 - **M. Eng. – Artificial Intelligence**  
-  [VIU](universidadviu.com)
+  [VIU](https://universidadviu.com)
 
 - **B. Eng. – Telecom Engineering**  
-  [US](us.es)
+  [US](https://us.es)
 
 ---
 
