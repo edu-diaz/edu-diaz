@@ -67,6 +67,6 @@ I’m passionate about open-source and have contributed to various projects that
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com)  
+- [LinkedIn](https://www.linkedin.com/in/eduardo-diaz-asencio)
 - [GitHub](https://github.com)
 - edudiazasencio@gmail.com 📩
